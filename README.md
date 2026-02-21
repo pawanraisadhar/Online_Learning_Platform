@@ -1,5 +1,4 @@
 # Online_Learning_Platform
-Online Learning Platform
 
 Online Learning Platform using SQL 
 The Online Learning Platform project focuses on analyzing student enrollment data, course performance, instructor activity, and revenue insights using SQL. 
